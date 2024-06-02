@@ -6,4 +6,5 @@ module.exports = buildModule("ChatApp", (m) => {
   return { ChatApp };
 });
 
-//Contract address - 0x5FbDB2315678afecb367f032d93F642f64180aa3
+//Contract address - 0x1b82819Bf8Bf4fB3f1cdB68d846D1eD15ca4bE8f
+//New address - 0x481077e0a80A9f80e8301a3262cB3226fA4202b4

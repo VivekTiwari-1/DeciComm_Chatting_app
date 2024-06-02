@@ -46,6 +46,7 @@ const Navbar = () => {
       <div className={Style.Navbar_box}>
         <div className={Style.Navbar_box_left}>
           <Image src={images.logo} alt="logo" width={50} height={50} />
+          <h1>DeciComm.</h1>
         </div>
         <ChatAppProvider>
           <div className={Style.Navbar_box_right}>
