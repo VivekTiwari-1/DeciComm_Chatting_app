@@ -1,0 +1,10 @@
+.upcomming {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.upcomming h2 {
+  margin-top: 35vh;
+  color: slategrey;
+}
