@@ -2,6 +2,8 @@
 
 DeciComm is a decentralized communication platform that ensures privacy and trustless interactions. By leveraging blockchain technology, DeciComm provides a secure environment for users to create accounts, interact with others, and chat without the need for a central authority.
 
+Link - https://decicomm-chatting-app.vercel.app/
+
 ## Key Features
 
 - **Account Creation**: Easily create an account by connecting your MetaMask wallet.
